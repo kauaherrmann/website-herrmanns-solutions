@@ -1,0 +1,11 @@
+D:\- Downloads\PROJETOS\PC\Landing page - willian\website-herrmanns-solutions\backend\src\BuildingBlocks\SharedKernel\bin\Debug\net8.0\SharedKernel.deps.json
+D:\- Downloads\PROJETOS\PC\Landing page - willian\website-herrmanns-solutions\backend\src\BuildingBlocks\SharedKernel\bin\Debug\net8.0\SharedKernel.dll
+D:\- Downloads\PROJETOS\PC\Landing page - willian\website-herrmanns-solutions\backend\src\BuildingBlocks\SharedKernel\bin\Debug\net8.0\SharedKernel.pdb
+D:\- Downloads\PROJETOS\PC\Landing page - willian\website-herrmanns-solutions\backend\src\BuildingBlocks\SharedKernel\obj\Debug\net8.0\SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+D:\- Downloads\PROJETOS\PC\Landing page - willian\website-herrmanns-solutions\backend\src\BuildingBlocks\SharedKernel\obj\Debug\net8.0\SharedKernel.AssemblyInfoInputs.cache
+D:\- Downloads\PROJETOS\PC\Landing page - willian\website-herrmanns-solutions\backend\src\BuildingBlocks\SharedKernel\obj\Debug\net8.0\SharedKernel.AssemblyInfo.cs
+D:\- Downloads\PROJETOS\PC\Landing page - willian\website-herrmanns-solutions\backend\src\BuildingBlocks\SharedKernel\obj\Debug\net8.0\SharedKernel.csproj.CoreCompileInputs.cache
+D:\- Downloads\PROJETOS\PC\Landing page - willian\website-herrmanns-solutions\backend\src\BuildingBlocks\SharedKernel\obj\Debug\net8.0\SharedKernel.dll
+D:\- Downloads\PROJETOS\PC\Landing page - willian\website-herrmanns-solutions\backend\src\BuildingBlocks\SharedKernel\obj\Debug\net8.0\refint\SharedKernel.dll
+D:\- Downloads\PROJETOS\PC\Landing page - willian\website-herrmanns-solutions\backend\src\BuildingBlocks\SharedKernel\obj\Debug\net8.0\SharedKernel.pdb
+D:\- Downloads\PROJETOS\PC\Landing page - willian\website-herrmanns-solutions\backend\src\BuildingBlocks\SharedKernel\obj\Debug\net8.0\ref\SharedKernel.dll

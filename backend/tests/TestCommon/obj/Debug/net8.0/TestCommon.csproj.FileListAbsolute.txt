@@ -1,0 +1,11 @@
+D:\- Downloads\PROJETOS\PC\Landing page - willian\website-herrmanns-solutions\backend\tests\TestCommon\bin\Debug\net8.0\TestCommon.deps.json
+D:\- Downloads\PROJETOS\PC\Landing page - willian\website-herrmanns-solutions\backend\tests\TestCommon\bin\Debug\net8.0\TestCommon.dll
+D:\- Downloads\PROJETOS\PC\Landing page - willian\website-herrmanns-solutions\backend\tests\TestCommon\bin\Debug\net8.0\TestCommon.pdb
+D:\- Downloads\PROJETOS\PC\Landing page - willian\website-herrmanns-solutions\backend\tests\TestCommon\obj\Debug\net8.0\TestCommon.GeneratedMSBuildEditorConfig.editorconfig
+D:\- Downloads\PROJETOS\PC\Landing page - willian\website-herrmanns-solutions\backend\tests\TestCommon\obj\Debug\net8.0\TestCommon.AssemblyInfoInputs.cache
+D:\- Downloads\PROJETOS\PC\Landing page - willian\website-herrmanns-solutions\backend\tests\TestCommon\obj\Debug\net8.0\TestCommon.AssemblyInfo.cs
+D:\- Downloads\PROJETOS\PC\Landing page - willian\website-herrmanns-solutions\backend\tests\TestCommon\obj\Debug\net8.0\TestCommon.csproj.CoreCompileInputs.cache
+D:\- Downloads\PROJETOS\PC\Landing page - willian\website-herrmanns-solutions\backend\tests\TestCommon\obj\Debug\net8.0\TestCommon.dll
+D:\- Downloads\PROJETOS\PC\Landing page - willian\website-herrmanns-solutions\backend\tests\TestCommon\obj\Debug\net8.0\refint\TestCommon.dll
+D:\- Downloads\PROJETOS\PC\Landing page - willian\website-herrmanns-solutions\backend\tests\TestCommon\obj\Debug\net8.0\TestCommon.pdb
+D:\- Downloads\PROJETOS\PC\Landing page - willian\website-herrmanns-solutions\backend\tests\TestCommon\obj\Debug\net8.0\ref\TestCommon.dll

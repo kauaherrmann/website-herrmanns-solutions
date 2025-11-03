@@ -1,0 +1,26 @@
+version: '3.4'
+
+services:
+  catalog-api:
+    image: catalog-api
+    build:
+      context: .
+      dockerfile: src/Services/Catalog/Catalog.Api/Dockerfile
+    ports:
+      - "5001:80"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    depends_on:
+      - rabbitmq
+      - redis
+
+  rabbitmq:
+    image: rabbitmq:management
+    ports:
+      - "15672:15672"
+      - "5672:5672"
+
+  redis:
+    image: redis
+    ports:
+      - "6379:6379"
