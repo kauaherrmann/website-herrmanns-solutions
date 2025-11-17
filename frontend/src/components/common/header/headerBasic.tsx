@@ -25,16 +25,17 @@ export default function HeaderBasic() {
         bg={scrolled ? 'rgba(17, 24, 39, 0.5)' : 'transparent'}
         color="white"
         backdropFilter={scrolled ? 'saturate(180%) blur(12px)' : 'none'}
-        transition="background-color .2s ease, border-color .2s ease, backdrop-filter .2s ease"
+        transition="background-color .2s, border-color .2s, backdrop-filter .2s"
       >
         <Container maxW="6xl" py={3}>
           <Flex align="center" justify="space-between" gap={6}>
-            {/* Logo placeholder */}
+            {/* Logo (placeholder) */}
             <HStack>
               <Box boxSize="28px" bg="blue.500" borderRadius="full" />
-              <Text fontWeight="bold" letterSpacing="wide">HERRMANN'S SOLUTIONS</Text>
+              <Text fontWeight="bold" letterSpacing="wide">HERRMANN’S SOLUTIONS</Text>
             </HStack>
 
+            {/* Nav desktop */}
             <HStack display={{ base: 'none', md: 'flex' }} gap={8}>
               {nav.map((item) => (
                 <NavLink key={item.href} href={item.href} active={item.label === 'HOME'}>
@@ -43,6 +44,7 @@ export default function HeaderBasic() {
               ))}
             </HStack>
 
+            {/* Menu mobile (placeholder) */}
             <IconButton
               aria-label="Menu"
               display={{ base: 'inline-flex', md: 'none' }}

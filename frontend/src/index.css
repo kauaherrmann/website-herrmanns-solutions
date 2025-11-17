@@ -66,3 +66,23 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+html, body, #root {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  isolation: isolate;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  overflow-x: hidden;
+  background: #0b0e14; 
+}
+
+img, video { max-width: 100%; height: auto; display: block; }
